@@ -1,0 +1,1 @@
+GET https://gateway.marvel.com:443/v1/public/characters/1009144/comics?apikey=0165de8f38115cf2fe01042f4bb1d5b6

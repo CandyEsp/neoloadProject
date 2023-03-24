@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=MarvelApi
+project.version=8.7
+project.original.version=8.4
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.version=9.2.0
+product.original.version=8.2.1
+project.is-open-test-settings-after-upload=false
+project.id=3a76e51f-840a-4d2e-b267-5e378ee081c0
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false
+project.workspace=5e3acde2e860a132744ca916
+ssh.trustUnknownHosts.MONITORS=false
